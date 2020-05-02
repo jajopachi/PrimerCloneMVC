@@ -1,0 +1,196 @@
+[21:12:41 28-02-2020]
+Message: SQLSTATE[HY000] [1049] Unknown database '1mvc.loc'
+File: /var/www/mvc.loc/core/base/DataBase.php
+Line: 20
+Code: 1049
+=========================
+
+[21:13:34 28-02-2020]
+Message: SQLSTATE[HY000] [1049] Unknown database '1mvc.loc'
+File: /var/www/mvc.loc/core/base/DataBase.php
+Line: 20
+Code: 1049
+=========================
+
+[13:53:32 01-03-2020]
+Message: syntax error, unexpected 'array' (T_ARRAY), expecting function (T_FUNCTION) or const (T_CONST)
+File: /var/www/mvc.loc/core/base/Registry.php
+Line: 9
+Code: 0
+=========================
+
+[13:57:48 01-03-2020]
+Message: Cannot access protected property core\mvc\Model::$db
+File: /var/www/mvc.loc/core/base/App.php
+Line: 26
+Code: 0
+=========================
+
+[14:08:06 01-03-2020]
+Message: There is no value by this key!
+File: /var/www/mvc.loc/core/base/Registry.php
+Line: 19
+Code: 0
+=========================
+
+[14:08:08 01-03-2020]
+Message: There is no value by this key!
+File: /var/www/mvc.loc/core/base/Registry.php
+Line: 19
+Code: 0
+=========================
+
+[14:08:20 01-03-2020]
+Message: There is no value by this key!
+File: /var/www/mvc.loc/core/base/Registry.php
+Line: 19
+Code: 0
+=========================
+
+[14:08:28 01-03-2020]
+Message: There is no value by this key!
+File: /var/www/mvc.loc/core/base/Registry.php
+Line: 19
+Code: 0
+=========================
+
+[14:14:47 01-03-2020]
+Message: Call to undefined method core\App::setCurrencies()
+File: /var/www/mvc.loc/core/base/App.php
+Line: 20
+Code: 0
+=========================
+
+[22:27:24 02-03-2020]
+Message: SQLSTATE[HY000] [1049] Unknown database '1mvc.loc'
+File: /var/www/mvc.loc/core/base/DataBase.php
+Line: 20
+Code: 1049
+=========================
+
+[22:27:58 02-03-2020]
+Message: SQLSTATE[HY000] [1049] Unknown database '1mvc.loc'
+File: /var/www/mvc.loc/core/base/DataBase.php
+Line: 20
+Code: 1049
+=========================
+
+[22:28:05 02-03-2020]
+Message: SQLSTATE[HY000] [1049] Unknown database '1mvc.loc'
+File: /var/www/mvc.loc/core/base/DataBase.php
+Line: 20
+Code: 1049
+=========================
+
+[22:28:11 02-03-2020]
+Message: SQLSTATE[HY000] [1049] Unknown database '1mvc.loc'
+File: /var/www/mvc.loc/core/base/DataBase.php
+Line: 20
+Code: 1049
+=========================
+
+[22:41:56 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:42:31 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:42:43 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:42:53 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:42:54 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:43:00 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:43:00 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:43:01 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:43:01 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:43:01 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:43:13 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[22:43:24 02-03-2020]
+Message: Call to undefined method core\Registry::getVars()
+File: /var/www/mvc.loc/public/index.php
+Line: 9
+Code: 0
+=========================
+
+[13:46:16 08-03-2020]
+Message: Call to a member function prepare() on null
+File: /var/www/mvc.loc/app/models/Cabinet.php
+Line: 14
+Code: 0
+=========================
+
+[13:58:09 08-03-2020]
+Message: Property with such key <b>user</b> is exists!
+File: /var/www/mvc.loc/core/base/Registry.php
+Line: 14
+Code: 0
+=========================
+
+[13:59:23 08-03-2020]
+Message: There is no value by this key!
+File: /var/www/mvc.loc/core/base/Registry.php
+Line: 23
+Code: 0
+=========================
+
